@@ -1,0 +1,6 @@
+C:\Users\Gowtham\Source\Repos\DependencyInjection\ServicesCL\obj\Debug\ServicesCL.csproj.CoreCompileInputs.cache
+C:\Users\Gowtham\Source\Repos\DependencyInjection\ServicesCL\bin\Debug\ServicesCL.dll
+C:\Users\Gowtham\Source\Repos\DependencyInjection\ServicesCL\bin\Debug\EntitiesCL.dll
+C:\Users\Gowtham\Source\Repos\DependencyInjection\ServicesCL\obj\Debug\ServicesCL.csprojAssemblyReference.cache
+C:\Users\Gowtham\Source\Repos\DependencyInjection\ServicesCL\obj\Debug\ServicesCL.csproj.CopyComplete
+C:\Users\Gowtham\Source\Repos\DependencyInjection\ServicesCL\obj\Debug\ServicesCL.dll

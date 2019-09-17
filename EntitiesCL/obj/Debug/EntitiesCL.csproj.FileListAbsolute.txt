@@ -1,0 +1,4 @@
+C:\Users\Gowtham\Source\Repos\DependencyInjection\EntitiesCL\obj\Debug\EntitiesCL.csproj.CoreCompileInputs.cache
+C:\Users\Gowtham\Source\Repos\DependencyInjection\EntitiesCL\bin\Debug\EntitiesCL.dll
+C:\Users\Gowtham\Source\Repos\DependencyInjection\EntitiesCL\obj\Debug\EntitiesCL.dll
+C:\Users\Gowtham\Source\Repos\DependencyInjection\EntitiesCL\obj\Debug\EntitiesCL.csprojAssemblyReference.cache
