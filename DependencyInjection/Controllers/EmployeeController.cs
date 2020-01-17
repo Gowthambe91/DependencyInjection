@@ -23,9 +23,9 @@ namespace DependencyInjection.Controllers
              can test the class successfuly independently --> This is called as Construction Injection*/
 
             EmployeeBAL employeeBAL = new EmployeeBAL();
-            employeeBAL.IemployeeDAL = new EmployeeDAL();//Property Injection - can be used when injection can happen as late as possible, not like constructor injection.
-            //IList<Employee> employees = employeeBAL.GetEmployees();
-            IList<Employee> employees = employeeBAL.GetEmployees(new EmployeeDAL());//Method injection - can be used if only one method has dependancy involved, but not other methods
+            //employeeBAL.IemployeeDAL = new EmployeeDAL();//Property Injection - can be used when injection can happen as late as possible, not like constructor injection.
+            IList<Employee> employees = employeeBAL.GetEmployees();
+           // IList<Employee> employees = employeeBAL.GetEmployees(new EmployeeDAL());//Method injection - can be used if only one method has dependancy involved, but not other methods
             return View(employees);
         }
     }

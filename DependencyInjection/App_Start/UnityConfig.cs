@@ -14,9 +14,9 @@ namespace DependencyInjection
             // it is NOT necessary to register your controllers
 
             // e.g. container.RegisterType<ITestService, TestService>();
-            container.RegisterType<IInstitutionService, InstitutionService>();
-            container.RegisterType<ICourseService, CourseService>();
-            DependencyResolver.SetResolver(new UnityDependencyResolver(container));
+            //container.RegisterType<IInstitutionService, InstitutionService>();
+            //container.RegisterType<ICourseService, CourseService>();
+            //DependencyResolver.SetResolver(new UnityDependencyResolver(container));
         }
     }
 }
